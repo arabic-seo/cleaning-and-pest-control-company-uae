@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arabic-seo.github.io/cleaning-and-pest-control-company-uae/sitemap.xml
